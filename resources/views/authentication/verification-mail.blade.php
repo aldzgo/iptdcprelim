@@ -1,5 +1,5 @@
-<h1>Welcome to Earth, {{ $user->fname }}!</h1>
-<h3>I see you have bargain to art request.</h3>
+<h1>Welcome to the World of Animals, {{ $user->fname }}!</h1>
+<h3>Animals is vary in abilities, sizes, and power and it has so much to learn so let's go dive together!.</h3>
 
 <br>
 
